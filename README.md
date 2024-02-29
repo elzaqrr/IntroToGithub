@@ -62,6 +62,12 @@ Bruno Direito is an assistant researcher at the Center for Informatics and Syste
 <h3 id="Ana">Ana Santos Carvalho</h3><i>Organização</i><br><br>Coordenação de Comunicação de Ciência - Instituto de Investigação Interdisciplinar<br><br>
 </div>
 
+## Participantes
+
+<div style="overflow: auto;margin-bottom: 16px;">
+<a href="https://github.com/elzaqrr"><img src="" width="130" style="float: left; margin-right: 1em;"></a>
+<h3 id="Ana">Elza Ribeiro Rocha</h3><i>Participante</i><br><br>Bolseira de Investigação no CNC-UC<br><br>
+</div>
 
 ## Acknowledgements
 This repo was built by [OCH](https://omarcostahamido.com), while working at [CEIS20](https://www.uc.pt/ceis20) on the [IIMPAQCT](https://cordis.europa.eu/project/id/101109258) project.
